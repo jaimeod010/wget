@@ -11,7 +11,7 @@ Breve explicación sobre como instalar y usar wget
 
 :heavy_minus_sign:[Referencias](https://github.com/jaimeod010/wget/blob/main/Referencias.md)
 
-##Imagenes
+## Imagenes
 
 :heavy_minus_sign:[Imágenes](https://github.com/jaimeod010/wget/tree/main/imagenes)
 
